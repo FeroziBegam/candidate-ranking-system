@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0081846,1,0.7557,"Senior Engineer showing true product engineering background with 6.7 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, pytorch)."
+CAND_0011687,2,0.7425,"Senior Engineer showing true product engineering background with 7.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, pytorch)."
+CAND_0088025,3,0.7416,"Senior Engineer showing true product engineering background with 8.6 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow, rag)."
+CAND_0002025,4,0.7412,"Senior Engineer showing true product engineering background with 5.9 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow, scikit-learn)."
+CAND_0018499,5,0.7383,"Senior Engineer showing true product engineering background with 7.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, rag, scikit-learn)."
+CAND_0086022,6,0.7374,"Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, pytorch)."
+CAND_0080372,7,0.7341,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (python, fastapi, scikit-learn)."
+CAND_0064326,8,0.7318,"Senior Engineer showing true product engineering background with 7.6 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, rag)."
+CAND_0015493,9,0.7292,"Senior Engineer showing true product engineering background with 6.4 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, pytorch, scikit-learn)."
+CAND_0077337,10,0.7279,"Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (python, rag)."
+CAND_0055905,11,0.7267,"Senior Engineer showing true product engineering background with 8.1 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python)."
+CAND_0071974,12,0.725,"Senior Engineer showing true product engineering background with 7.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, rag)."
+CAND_0008425,13,0.7235,"Senior Engineer showing true product engineering background with 7.8 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow)."
+CAND_0064888,14,0.7229,"Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow)."
+CAND_0093763,15,0.7229,"Senior Engineer showing true product engineering background with 5.0 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, pytorch)."
+CAND_0000969,16,0.7211,"Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag)."
+CAND_0005260,17,0.7196,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, rag)."
+CAND_0098952,18,0.719,"Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (python, scikit-learn)."
+CAND_0043676,19,0.7189,"Senior Engineer showing true product engineering background with 6.1 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, scikit-learn)."
+CAND_0008297,20,0.7186,"Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, scikit-learn)."
+CAND_0078002,21,0.7181,"Senior Engineer showing true product engineering background with 6.3 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, fastapi, scikit-learn)."
+CAND_0088385,22,0.7177,"Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, scikit-learn)."
+CAND_0013393,23,0.7176,"Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, pytorch)."
+CAND_0013988,24,0.717,"Senior Engineer showing true product engineering background with 5.4 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, rag, scikit-learn)."
+CAND_0078669,25,0.7165,"Senior Engineer showing true product engineering background with 6.3 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, rag)."
+CAND_0081321,26,0.7162,"Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch)."
+CAND_0023541,27,0.716,"Senior Engineer showing true product engineering background with 5.0 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, scikit-learn)."
+CAND_0005649,28,0.7137,"Senior Engineer showing true product engineering background with 7.4 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag, scikit-learn)."
+CAND_0083307,29,0.7127,"Senior Engineer showing true product engineering background with 7.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, scikit-learn)."
+CAND_0065878,30,0.7124,"Senior Engineer showing true product engineering background with 7.8 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag, scikit-learn)."
+CAND_0029367,31,0.7122,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, pytorch, rag)."
+CAND_0070525,32,0.7111,"Senior Engineer showing true product engineering background with 5.4 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python)."
+CAND_0091254,33,0.7101,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, scikit-learn)."
+CAND_0006538,34,0.71,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, scikit-learn)."
+CAND_0041610,35,0.71,"Senior Engineer showing true product engineering background with 6.7 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, pytorch, scikit-learn)."
+CAND_0046064,36,0.7098,Senior Engineer showing true product engineering background with 8.9 years of experience. Demonstrates clear production tracking across target skillsets (python).
+CAND_0020494,37,0.7096,"Senior Engineer showing true product engineering background with 5.9 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, tensorflow)."
+CAND_0001218,38,0.7094,"Senior Engineer showing true product engineering background with 6.4 years of experience. Demonstrates clear production tracking across target skillsets (rag, scikit-learn)."
+CAND_0077261,39,0.7093,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag)."
+CAND_0011489,40,0.7092,"Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, rag)."
+CAND_0073504,41,0.7088,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag)."
+CAND_0058412,42,0.7086,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, rag)."
+CAND_0068811,43,0.7085,"Senior Engineer showing true product engineering background with 8.0 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, scikit-learn)."
+CAND_0060468,44,0.7079,"Senior Engineer showing true product engineering background with 6.4 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, rag, scikit-learn)."
+CAND_0004555,45,0.7078,"Senior Engineer showing true product engineering background with 5.0 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, pytorch)."
+CAND_0049978,46,0.7078,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, pytorch)."
+CAND_0043637,47,0.7074,Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (pytorch).
+CAND_0057736,48,0.7074,Senior Engineer showing true product engineering background with 6.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0066791,49,0.707,"Senior Engineer showing true product engineering background with 5.6 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, fastapi)."
+CAND_0008295,50,0.7069,Senior Engineer showing true product engineering background with 6.5 years of experience. Demonstrates clear production tracking across target skillsets (python).
+CAND_0053605,51,0.7068,Senior Engineer showing true product engineering background with 6.9 years of experience. Demonstrates clear production tracking across target skillsets (rag).
+CAND_0073314,52,0.7062,Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (pytorch).
+CAND_0028287,53,0.7061,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (python, rag)."
+CAND_0053527,54,0.7057,Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (scikit-learn).
+CAND_0072547,55,0.7057,Senior Engineer showing true product engineering background with 5.1 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0054271,56,0.7053,Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0076412,57,0.7052,"Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (python, scikit-learn)."
+CAND_0033649,58,0.7051,Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (pytorch).
+CAND_0095528,59,0.705,"Senior Engineer showing true product engineering background with 5.3 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, rag)."
+CAND_0047542,60,0.7048,Senior Engineer showing true product engineering background with 5.0 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0017090,61,0.7042,Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (python).
+CAND_0073385,62,0.7042,Senior Engineer showing true product engineering background with 6.7 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0015097,63,0.7039,Senior Engineer showing true product engineering background with 6.0 years of experience. Demonstrates clear production tracking across target skillsets (python).
+CAND_0060072,64,0.7037,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, pytorch, rag)."
+CAND_0064256,65,0.7031,"Senior Engineer showing true product engineering background with 6.4 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, pytorch)."
+CAND_0054859,66,0.7027,Senior Engineer showing true product engineering background with 6.9 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0077067,67,0.7026,"Senior Engineer showing true product engineering background with 5.4 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow, fastapi)."
+CAND_0091229,68,0.7024,"Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, scikit-learn)."
+CAND_0001302,69,0.7022,"Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow, scikit-learn)."
+CAND_0081086,70,0.7022,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python)."
+CAND_0060835,71,0.7019,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, pytorch)."
+CAND_0074486,72,0.7016,"Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, pytorch, fastapi)."
+CAND_0029671,73,0.7011,Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0064130,74,0.7002,"Senior Engineer showing true product engineering background with 6.7 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, scikit-learn)."
+CAND_0068410,75,0.6999,Senior Engineer showing true product engineering background with 5.8 years of experience. Demonstrates clear production tracking across target skillsets (scikit-learn).
+CAND_0075491,76,0.6996,Senior Engineer showing true product engineering background with 6.0 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0076956,77,0.6996,Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow).
+CAND_0021491,78,0.6993,"Senior Engineer showing true product engineering background with 6.1 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, scikit-learn)."
+CAND_0026424,79,0.6993,Senior Engineer showing true product engineering background with 5.6 years of experience. Demonstrates clear production tracking across target skillsets (embeddings).
+CAND_0074123,80,0.6993,Senior Engineer showing true product engineering background with 6.9 years of experience. Demonstrates clear production tracking across target skillsets (pytorch).
+CAND_0088441,81,0.6993,Senior Engineer showing true product engineering background with 6.5 years of experience. Demonstrates clear production tracking across target skillsets (scikit-learn).
+CAND_0003506,82,0.6989,"Senior Engineer showing true product engineering background with 5.9 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, tensorflow, rag)."
+CAND_0068932,83,0.6989,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (rag, scikit-learn)."
+CAND_0074731,84,0.6989,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (python, tensorflow, pytorch)."
+CAND_0020845,85,0.6988,Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (scikit-learn).
+CAND_0089381,86,0.6988,"Senior Engineer showing true product engineering background with 6.0 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch)."
+CAND_0030550,87,0.6987,Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (scikit-learn).
+CAND_0087766,88,0.6985,Senior Engineer showing true product engineering background with 5.1 years of experience. Demonstrates clear production tracking across target skillsets (rag).
+CAND_0065501,89,0.6984,"Senior Engineer showing true product engineering background with 6.0 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, python, scikit-learn)."
+CAND_0087006,90,0.6984,Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (rag).
+CAND_0028793,91,0.6982,"Senior Engineer showing true product engineering background with 7.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, pytorch)."
+CAND_0008202,92,0.6977,"Senior Engineer showing true product engineering background with 5.7 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch, rag)."
+CAND_0035779,93,0.6971,"Senior Engineer showing true product engineering background with 5.5 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, rag)."
+CAND_0052328,94,0.697,"Senior Engineer showing true product engineering background with 6.5 years of experience. Demonstrates clear production tracking across target skillsets (python, scikit-learn)."
+CAND_0092989,95,0.697,"Senior Engineer showing true product engineering background with 6.1 years of experience. Demonstrates clear production tracking across target skillsets (tensorflow, rag)."
+CAND_0003791,96,0.6965,"Senior Engineer showing true product engineering background with 6.6 years of experience. Demonstrates clear production tracking across target skillsets (python, pytorch)."
+CAND_0073982,97,0.6964,"Senior Engineer showing true product engineering background with 7.0 years of experience. Demonstrates clear production tracking across target skillsets (pytorch, rag)."
+CAND_0090584,98,0.6962,"Senior Engineer showing true product engineering background with 5.1 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, rag)."
+CAND_0098288,99,0.6959,"Senior Engineer showing true product engineering background with 6.7 years of experience. Demonstrates clear production tracking across target skillsets (python, rag, scikit-learn)."
+CAND_0060538,100,0.6955,"Senior Engineer showing true product engineering background with 5.2 years of experience. Demonstrates clear production tracking across target skillsets (embeddings, scikit-learn)."
