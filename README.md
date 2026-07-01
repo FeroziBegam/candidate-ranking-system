@@ -43,17 +43,17 @@ Final composite alignment scoring is calculated using the following distributed 
 
 candidate-ranking-system/
 ├── src/
-│   ├── main.py                  # Primary orchestrator pipeline execution entry point
-│   ├── load_dataset.py          # Lazy streaming data utilities and text parsers
-│   ├── scoring_engine.py        # 4D scoring algorithms and honeypot defenses
-│   ├── generate_presentation.py # Automated summary slide generation engine
-│   └── test_quick.py            # Local validation script
+│   ├── main.py                 
+│   ├── load_dataset.py       
+│   ├── scoring_engine.py       
+│   ├── generate_presentation.py 
+│   └── test_quick.py           
 ├── output/
-│   ├── team_submission.csv      # Strictly formatted 4-column submission file
-│   └── ranked_candidates.json   # Internal performance metadata cache payload
-├── requirements.txt             # Python dependent framework environment pinned references
-├── README.md                    # Complete technical documentation manual
-└── GITHUB_SETUP.md              # Deployment guide
+│   ├── team_submission.csv     
+│   └── ranked_candidates.json   
+├── requirements.txt             
+├── README.md                   
+└── GITHUB_SETUP.md              
 
 
 ---
